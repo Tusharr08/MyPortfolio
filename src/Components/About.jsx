@@ -10,21 +10,21 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/mosaic.svg";
+import image from "../images/about.png";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "demonic eyes";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Computer Science & Engineering student studying at Pranveer Singh Institute of Technology. I enjoy developing web3 applications and provide blockchain solutions for the industry.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
